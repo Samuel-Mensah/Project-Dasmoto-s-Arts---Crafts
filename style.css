@@ -1,0 +1,56 @@
+
+/*Header! (title) */
+h1 {
+background-position:center;
+font-size:100px;
+font-family:Helvetica;
+font-weight:bold;
+color:khaki;
+display: flex;
+justify-content: center;
+}
+
+h2{
+  color:white;
+  font-size:32px;
+  font-weight:bold;
+  font-family:Helvetica;
+}
+
+
+/*Brushes! */
+.brushes {
+  background-color:mediumspringgreen;
+
+}
+.hacksawbrushes {
+  font-family:Helvetica;
+}
+.brush-price {
+  font-weight:bold;
+  color:blue;
+}
+/*Frames! */
+.frames {
+  background-color:lightcoral;
+
+}
+.artframes {
+  font-family:Helvetica;
+}
+.frame-price {
+   font-weight:bold;
+  color:blue;
+}
+/*Paint! */
+.paint {
+  background-color:skyblue;
+
+}
+.cleanfinishpaint {
+ font-family:Helvetica; 
+}
+.paint-price {
+  font-weight:bold;
+  color:blue;
+}
